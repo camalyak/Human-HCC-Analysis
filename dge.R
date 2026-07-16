@@ -2,6 +2,7 @@
 # Date: 7/13/26
 # Data title: RNA sequencing analysis of hepatocellular carcinoma identified oxidative phosphorylation as a major pathologic feature
 # Data set: GSE184733
+# Purpose: find DGEs for nontumor v. tumor liver cells
 
 
 #install.packages("pacman")
